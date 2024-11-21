@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am currently a Senior Research Scientist at Alibaba, focusing on large language models, multimodal models, and their applications in search ads, under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en) and Bo Zheng. Previously, I was a researcher at SenseTime, where I worked on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Prior to that, I researched object detection and segmentation at Baidu's Institute of Deep Learning (IDL) under [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
+I am currently a Senior Research Scientist at Alibaba, focusing on large language models, multimodal models, and their applications in search ads, under the leadership of [Jian Xu](https://scholar.google.com/citations?user=30VZBsIAAAAJ&hl=en). Previously, I was a researcher at SenseTime, where I worked on computer vision and neural architecture search with [Ming Sun](https://msunming.github.io/), Prof. [Wanli Ouyang](https://wlouyang.github.io/), and Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=en). Prior to that, I researched object detection and segmentation at Baidu's Institute of Deep Learning (IDL) under [Shilei Wen](https://scholar.google.com/citations?user=zKtYrHYAAAAJ&hl=zh-CN).
 
 I earned my master’s degree from the School of Computer Science at Beijing Institute of Technology, supervised by Prof. Yuwei Wu and Prof. Yunde Jia.
 
@@ -10,13 +10,13 @@ If you’re interested in collaborating, feel free to email me at xingyuanbu at 
 
 ## General information
 
--  <p>Links: <img align="center" height="16" src="resource/google-scholar.png"> <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en">Google Scholar</a> <img align="center" height="16" src="resource/Github.png"> <a href="https://github.com/xingyuanbu">Github</a>  <img align="center" height="16" src="resource/linkedin.png"> <a href="https://www.linkedin.com/in/xingyuanbu/">LinkedIn</a>  </p>
+-  <p>Links: <img align="center" height="16" src="resource/google-scholar.png"> <a href="https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en">Google Scholar</a> <img align="center" height="16" src="resource/GitHub.png"> <a href="https://github.com/xingyuanbu">GitHub</a>  <img align="center" height="16" src="resource/linkedin.png"> <a href="https://www.linkedin.com/in/xingyuanbu/">LinkedIn</a>  </p>
 - Research interests: Computer Vision, Multimodality, Large Language Models.
 -  Professional Services: I am a reviewer for several top-tier conferences and journals, ICLR, NeurIPS, CVPR, ACL, EMNLP, NAACL, TPAMI, TIP, TCSVT, TMM, CVIU, PR.
 
 
 ## Selected Publications
-*Equal contribution, #Corresponding author
+<strong>*</strong>Equal contribution, <strong>#</strong>Corresponding author
 
 - GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models
   Shilong Li, Yancheng He, Hangyu Guo, <strong>Xingyuan Bu*#</strong>, Ge Bai et al.
