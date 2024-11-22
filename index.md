@@ -19,7 +19,7 @@ If you are interested in working with me as a research intern, please feel free 
 ## Selected Publications
 <strong>*</strong>Equal contribution, <strong>#</strong>Corresponding author
 
-<img style="float: right;" width="200" height="150" src="resource/GraphReader.png">
+<img style="float: left;" width="200" height="150" src="resource/GraphReader.png">
 
 - GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models.
   Shilong Li, Yancheng He, Hangyu Guo, <strong>Xingyuan Bu*#</strong>, Ge Bai et al.
@@ -27,7 +27,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2406.14550)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/MTBench101.png">
+
+<img style="float: left;" width="200" height="150" src="resource/MTBench101.png">
 
 - MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues.
   Ge Bai, Jie Liu, <strong>Xingyuan Bu*#</strong>, Yancheng He, Jiaheng Liu et al.
@@ -35,7 +36,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2402.14762) [[code]](https://github.com/mtbench101/mt-bench-101)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/ConceptMath.png">
+
+<img style="float: left;" width="200" height="150" src="resource/ConceptMath.png">
 
 - ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models.
   Yanan Wu, Jie Liu, <strong>Xingyuan Bu*</strong>, Jiaheng Liu et al.
@@ -43,7 +45,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2402.14660) [[code]](https://github.com/conceptmath/conceptmath)
 <p></p>
 
-<img style="float: right;" width="180" height="150" src="resource/LargeTPAMI.png">
+
+<img style="float: left;" width="180" height="150" src="resource/LargeTPAMI.png">
 
 - Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels.
   Cong Pan, Junran Peng, <strong>Xingyuan Bu</strong>, and Zhaoxiang Zhang.
@@ -51,14 +54,17 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10579784)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/RoleAgent.png">
+
+<img style="float: left;" width="200" height="150" src="resource/RoleAgent.png">
 
 - RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts.
   Jiaheng Liu, Zehao Ni, Haoran Que, ..., <strong>Xingyuan Bu</strong> et al.
   <strong>NeurIPS 2024.</strong>
   [[paper]]()
+<p></p>
 
-<img style="float: right;" width="180" height="150" src="resource/GAIACVPR.png">
+
+<img style="float: left;" width="180" height="150" src="resource/GAIACVPR.png">
 
 - GAIA-Universe: Everything is Super-Netify.
   Junran Peng, Qing Chang, Haoran Yin, <strong>Xingyuan Bu</strong>, Jiajun Sun, Lingxi Xie, Xiaopeng Zhang, Qi Tian, and Zhaoxiang Zhang.
@@ -66,7 +72,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://ieeexplore.ieee.org/document/10125046) [[code]](https://github.com/GAIA-vision/GAIA-det)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/CTR.png">
+
+<img style="float: left;" width="200" height="150" src="resource/CTR.png">
 
 - Visual Encoding and Debiasing for CTR Prediction.
   Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, <strong>Xingyuan Bu</strong>, Xubin Li, Hongbo Deng, Jian Xu et al.
@@ -75,7 +82,7 @@ If you are interested in working with me as a research intern, please feel free 
 <p></p>
 
 
-<img style="float: right;" width="200" height="125" src="resource/GAIATPAMI.png">
+<img style="float: left;" width="200" height="125" src="resource/GAIATPAMI.png">
 
 - GAIA: A Transfer Learning System of Object Detection that Fits Your Needs.
   <strong>Xingyuan Bu</strong>, Junran Peng, Junjie Yan, Tieniu Tan, and Zhaoxiang Zhang.
@@ -83,7 +90,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2106.11346) [[code]](https://github.com/GAIA-vision/GAIA-det)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/LargeCVPR.png">
+
+<img style="float: left;" width="200" height="150" src="resource/LargeCVPR.png">
 
 - Large-Scale Object Detection in the Wild from Imbalanced Multi-Labels.
   Junran Peng, <strong>Xingyuan Bu*</strong>, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, and Junjie Yan.
@@ -91,7 +99,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2005.08455)
 <p></p>
 
-<img style="float: right;" width="200" height="150" src="resource/SPD.png">
+
+<img style="float: left;" width="200" height="150" src="resource/SPD.png">
 
 - Learning a Robust Representation via a Deep Network on Symmetric Positive Definite Manifolds.
   Zhi Gao, Yuwei Wu, <strong>Xingyuan Bu</strong>, Tan Yu, Junsong Yuan, and Yunde Jia.
@@ -99,7 +108,8 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301062)
 <p></p>
 
-<img style="float: right;" width="200" height="125" src="resource/LLCNet.png">
+
+<img style="float: left;" width="200" height="125" src="resource/LLCNet.png">
 
 - Deep Convolutional Network with Locality and Sparsity Constraints for Texture Classification.
   <strong>Xingyuan Bu</strong>, Yuwei Wu, Zhi Gao, and Yunde Jia.
