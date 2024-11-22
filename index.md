@@ -19,11 +19,15 @@ If you are interested in working with me as a research intern, please feel free 
 ## Selected Publications
 <strong>*</strong>Equal contribution, <strong>#</strong>Corresponding author
 
+<img style="float: right;" width="200" height="150" src="resource/GraphReader.png">
+
 - GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models
   Shilong Li, Yancheng He, Hangyu Guo, <strong>Xingyuan Bu*#</strong>, Ge Bai et al.
   <strong>EMNLP 2024.</strong>
   [[paper]](https://arxiv.org/abs/2406.14550)
 <p></p>
+
+<img style="float: right;" width="200" height="150" src="resource/MTBench101.png">
 
 - MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues
   Ge Bai, Jie Liu, <strong>Xingyuan Bu*#</strong>, Yancheng He, Jiaheng Liu et al.
@@ -31,11 +35,15 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2402.14762) [[code]](https://github.com/mtbench101/mt-bench-101)
 <p></p>
 
+<img style="float: right;" width="200" height="150" src="resource/ConceptMath.png">
+
 - ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models
   Yanan Wu, Jie Liu, <strong>Xingyuan Bu*</strong>, Jiaheng Liu et al.
   <strong>ACL 2024.</strong>
   [[paper]](https://arxiv.org/abs/2402.14660) [[code]](https://github.com/conceptmath/conceptmath)
 <p></p>
+
+<img style="float: right;" width="180" height="150" src="resource/LargeTPAMI.png">
 
 - Large-Scale Object Detection in the Wild With Imbalanced Data Distribution, and Multi-Labels
   Cong Pan, Junran Peng, <strong>Xingyuan Bu</strong>, and Zhaoxiang Zhang.
@@ -43,11 +51,22 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://ieeexplore.ieee.org/abstract/document/10579784)
 <p></p>
 
+<img style="float: right;" width="200" height="150" src="resource/RoleAgent.png">
+
+- RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts
+  Jiaheng Liu, Zehao Ni, Haoran Que, ..., <strong>Xingyuan Bu</strong> et al.
+  <strong>NeurIPS 2024.</strong>
+  [[paper]]()
+
+<img style="float: right;" width="180" height="150" src="resource/GAIACVPR.png">
+
 - GAIA-Universe: Everything is Super-Netify
   Junran Peng, Qing Chang, Haoran Yin, <strong>Xingyuan Bu</strong>, Jiajun Sun, Lingxi Xie, Xiaopeng Zhang, Qi Tian, and Zhaoxiang Zhang.
   <strong>TPAMI 2023.</strong>
   [[paper]](https://ieeexplore.ieee.org/document/10125046) [[code]](https://github.com/GAIA-vision/GAIA-det)
 <p></p>
+
+<img style="float: right;" width="200" height="150" src="resource/CTR.png">
 
 - Visual Encoding and Debiasing for CTR Prediction
   Guipeng Xv, Si Chen, Chen Lin, Wanxian Guan, <strong>Xingyuan Bu</strong>, Xubin Li, Hongbo Deng, Jian Xu et al.
@@ -55,11 +74,16 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2205.04168)
 <p></p>
 
+
+<img style="float: right;" width="200" height="125" src="resource/GAIATPAMI.png">
+
 - Gaia: A transfer learning system of object detection that fits your needs
   <strong>Xingyuan Bu</strong>, Junran Peng, Junjie Yan, Tieniu Tan, and Zhaoxiang Zhang.
   <strong>CVPR 2021.</strong>
   [[paper]](https://arxiv.org/abs/2106.11346) [[code]](https://github.com/GAIA-vision/GAIA-det)
 <p></p>
+
+<img style="float: right;" width="200" height="150" src="resource/LargeCVPR.png">
 
 - Large-scale object detection in the wild from imbalanced multi-labels
   Junran Peng, <strong>Xingyuan Bu*</strong>, Ming Sun, Zhaoxiang Zhang, Tieniu Tan, and Junjie Yan.
@@ -67,12 +91,15 @@ If you are interested in working with me as a research intern, please feel free 
   [[paper]](https://arxiv.org/abs/2005.08455)
 <p></p>
 
+<img style="float: right;" width="200" height="150" src="resource/SPD.png">
+
 - Learning a robust representation via a deep network on symmetric positive definite manifolds
   Zhi Gao, Yuwei Wu, <strong>Xingyuan Bu</strong>, Tan Yu, Junsong Yuan, and Yunde Jia.
   <strong>Pattern Recognition 2019.</strong>
   [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301062)
 <p></p>
 
+<img style="float: right;" width="200" height="125" src="resource/LLCNet.png">
 
 - Deep convolutional network with locality and sparsity constraints for texture classification
   <strong>Xingyuan Bu</strong>, Yuwei Wu, Zhi Gao, and Yunde Jia.
