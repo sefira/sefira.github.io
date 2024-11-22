@@ -6,7 +6,7 @@ I am currently a Senior Research Scientist at Alibaba, focusing on large languag
 
 I earned my master’s degree from the School of Computer Science at Beijing Institute of Technology, supervised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN).
 
-If you’re interested in collaborating, feel free to email me at xingyuanbu at gmail dot com.
+If you are interested in working with me as a research intern, please feel free to drop me an email through xingyuanbu at gmail dot com.
 
 ## General information
 
