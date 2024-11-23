@@ -151,6 +151,7 @@ If you are interested in working with me as a research intern, please feel free 
 <!-- <div><img width="600" height="250" src="resource/LLCNet.jpg"></div> -->
 <!-- <div><img width="320" height="150" src="resource/LLCNet.jpg"></div> -->
 
+[View Xingyuan Bu'a Google Scholar](https://scholar.google.com/citations?user=cqYaRhUAAAAJ&hl=en)
 
 
 
